@@ -1,4 +1,4 @@
-# Employee-Attrition-Rate-System-
+# Employee-Attrition-Rate-System
 📌 Project Overview
 
 The objective of this project is to analyze and understand the key factors contributing to employee attrition within an organization. By leveraging data analytics and statistical techniques, this project aims to uncover patterns, trends, and actionable insights that can help organizations improve employee retention and make informed HR decisions.
